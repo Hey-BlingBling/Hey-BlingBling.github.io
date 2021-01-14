@@ -1,7 +1,7 @@
 # Site settings | 网站设置
 title: Hey-BlingBling's Blog
 SEOTitle: Hey-BlingBling's Blog
-header-img: img/home-bg-he.png
+header-img: img/home-bg.JPG
 email: qin_haibin@icloud.com
 description: "Hey-BlingBling's Blog"
 keyword: "Hey-BlingBling's Blog and Diary"
@@ -46,9 +46,9 @@ kramdown:
 # Gitalk
 gitalk:
   enable: true    # 是否开启Gitalk评论
-  clientID: 99ecf1fdc9b7e357ebb7                            #生成的clientID
-  clientSecret: 2670daea0c10372dd0296c371edc5ee4e73db43f    #生成的clientSecret
-  repo: Hey-BlingBling.github.io    #仓库名称
+  clientID: e1d10bfad2eaeb43d473                            #生成的clientID
+  clientSecret: b49195a5a945f7d86a32bb22efb5768fb6d6061f    #生成的clientSecret
+  repo: My_Blog_GitTalk    #仓库名称
   owner: Hey-BlingBling    # github用户名
   admin: Hey-BlingBling
   distractionFreeMode: true # 是否启用类似FB的阴影遮罩
