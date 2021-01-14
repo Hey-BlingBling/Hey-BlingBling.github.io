@@ -48,7 +48,7 @@ gitalk:
   enable: true    # 是否开启Gitalk评论
   clientID: e1d10bfad2eaeb43d473                            #生成的clientID
   clientSecret: b49195a5a945f7d86a32bb22efb5768fb6d6061f    #生成的clientSecret
-  repo: My_Blog_GitTalk    #仓库名称
+  repo: Hey-BlingBling.github.io    #仓库名称
   owner: Hey-BlingBling    # github用户名
   admin: Hey-BlingBling
   distractionFreeMode: true # 是否启用类似FB的阴影遮罩
